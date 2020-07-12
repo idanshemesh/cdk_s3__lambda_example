@@ -34,3 +34,4 @@ six==1.15.0
 toml==0.10.1
 typing-extensions==3.7.4.2
 wrapt==1.12.1
+-e .
